@@ -11,19 +11,23 @@
                 For x = first To last Step steps
                     message += x & vbNewLine
                 Next
+                MessageBox.Show(message)
             Else
                 MessageBox.Show("เลขเริ่มต้น ต้องน้อยกว่า เลขสิ้นสุด เท่านั้น !!!")
             End If
-        End If
-        If steps < 0 Then
+        ElseIf steps < 0 Then
             If first > last Then
                 For x = first To last Step steps
-                    message -= x & vbNewLine
+                    message += x & vbNewLine
                 Next
+                MessageBox.Show(message)
             Else
                 MessageBox.Show("เลขเริ่มต้น ต้องมากกว่า เลขสิ้นสุด เท่านั้น !!!")
             End If
+        Else
+            MessageBox.Show("ลำดับเพิ่ม / ลด คือ 0 !!!")
         End If
+
 
     End Sub
 
