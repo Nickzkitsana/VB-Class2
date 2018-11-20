@@ -1,0 +1,12 @@
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.exe.config
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.exe
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.pdb
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\bin\Debug\InputNumberSystem.xml
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbprojAssemblyReference.cache
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.Form1.resources
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.Resources.resources
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbproj.GenerateResource.cache
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.vbproj.CoreCompileInputs.cache
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.exe
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.xml
+C:\Users\PK\Desktop\repos\InputNumberSystem\InputNumberSystem\obj\Debug\InputNumberSystem.pdb
