@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe.config
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.exe
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.pdb
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\bin\Debug\GuessNumberGame.xml
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.Form1.resources
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.Resources.resources
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.exe
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.xml
+C:\Users\Lenovo\source\repos\VB-Class2\GuessNumberGame\GuessNumberGame\obj\Debug\GuessNumberGame.pdb
